@@ -13,6 +13,10 @@
 		{
 			name: 'Image preview',
 			url: '/image-preview'
+		},
+		{
+			name: 'Product',
+			url: '/product'
 		}
 	];
 </script>
