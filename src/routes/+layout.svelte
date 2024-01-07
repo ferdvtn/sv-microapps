@@ -9,6 +9,10 @@
 		{
 			name: 'Filter radio',
 			url: '/filter-radio'
+		},
+		{
+			name: 'Image preview',
+			url: '/image-preview'
 		}
 	];
 </script>
