@@ -8,7 +8,7 @@
 
 <div class="flex flex-col justify-center items-center h-[calc(100dvh)]">
 	<div class="card card-bordered w-64 shadow-xl">
-		<div class="card-body justify-evenly">
+		<div class="card-body">
 			<div class="card-title"><h1>Image Preview</h1></div>
 			{#each images as img}
 				<a href={img} target="_blank" class="group">
